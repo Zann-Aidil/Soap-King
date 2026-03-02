@@ -1,12 +1,5 @@
-# Hi 👋 I'm Fauzan Aidil Luthfi
+# Hi  I'm Fauzan Aidil Luthfi
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Student+at+Universitas+Medan+Area;Web+Development+Enthusiast;Machine+Learning+Learner;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=for-the-badge" />
-</p>
 
 ---
 
