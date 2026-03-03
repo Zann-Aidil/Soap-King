@@ -1,6 +1,5 @@
 # Hi  I'm Fauzan Aidil Luthfi
 
-
 ---
 
 ## 👨‍💻 About Me
